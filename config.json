@@ -86,7 +86,7 @@
         "transferFee": 10,
         "minPayment":  10000,
         "maxTransactionAmount": 0,
-        "denomination": 100
+        "denomination": 1
     },
 
     "blockUnlocker": {
