@@ -82,10 +82,10 @@
         "enabled": true,
         "interval": 10,
         "maxAddresses": 50,
-        "mixin": 3,
+        "mixin": 4,
         "transferFee": 10,
         "minPayment":  10000,
-        "maxTransactionAmount": 0,
+        "maxTransactionAmount": 100000,
         "denomination": 1
     },
 
