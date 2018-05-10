@@ -12,9 +12,9 @@ var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
-var blockchainExplorer = "http://pool.intucoin.com/?hash={id}#blockchain_block";
+var blockchainExplorer = "http://explorer.intucoin.com/?hash={id}#blockchain_block";
 
-var transactionExplorer = "http://pool.intucoin.com/?hash={id}#blockchain_transaction";
+var transactionExplorer = "http://explorer.intucoin.com/?hash={id}#blockchain_transaction";
 
 var themeCss = "themes/default-theme.css";
 
